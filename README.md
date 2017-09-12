@@ -12,4 +12,4 @@ run the command list below:
 
 ### More
 
-<p>Check package.json File if you want more info about platzigram commands</p>
+<p>Check package.json and gulp Files if you want more info about platzigram commands</p>
